@@ -1,0 +1,11 @@
+{
+    "name": "biocalc-interactive",
+    "version": "1.0.0",
+    "description": "educational web application that teaches biology & calculus by providing interactive interfaces",
+    "main": "",
+    "scripts" : {
+        "start": ""
+    },
+    "author": "Simisola Omotoso",
+    "license": "ISC"
+}
